@@ -141,9 +141,9 @@ graphlimit=100
 graph_args --base 1000 -r --lower-limit 0 --upper-limit 100
 graph_vlabel %
 graph_category system
-graph_info This graph shows the load average on the host. Load average is a rough way of estimating how hard the machine works. Optimally, a load average should be equal to or lower than the number of CPUs on the machine.
+graph_info This graph shows the memory usage on the host.
 memory.label memory
-memory.info The load average itself. This number is an average of the last 5 minutes.
+memory.info The memory usage itself.
 memory.draw AREA
 ";
 
