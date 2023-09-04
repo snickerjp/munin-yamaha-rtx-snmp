@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-snmp__load - Munin plugin to monitor load average via SNMP.
+rtx__load from snmp__load - Munin plugin to monitor load average via SNMP.
 
 =head1 APPLICABLE SYSTEMS
 
